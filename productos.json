@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Camiseta 1",
+        "description": "Camiseta Argentina",
+        "price": 40000,
+        "thumbnail": "imagen_1",
+        "code": "QW12",
+        "stock": 50
+    },
+    {
+        "id": 2,
+        "title": "Camiseta 2",
+        "description": "Camiseta Brasil",
+        "price": 40000,
+        "thumbnail": "imagen_2",
+        "code": "ER34",
+        "stock": 30
+    },
+    {
+        "id": 3,
+        "title": "Camiseta 3",
+        "description": "Camiseta Francia",
+        "price": 40000,
+        "thumbnail": "imagen_3",
+        "code": "TY56",
+        "stock": 40
+    },
+    {
+        "id": 4,
+        "title": "Camiseta 4",
+        "description": "Camiseta España",
+        "price": 40000,
+        "thumbnail": "imagen_4",
+        "code": "UI78",
+        "stock": 20
+    },
+    {
+        "id": 5,
+        "title": "Camiseta 5",
+        "description": "Camiseta Inglaterra",
+        "price": 40000,
+        "thumbnail": "imagen_5",
+        "code": "OP90",
+        "stock": 15
+    },
+    {
+        "id": 6,
+        "title": "Camiseta 6",
+        "description": "Camiseta Colombia",
+        "price": 40000,
+        "thumbnail": "imagen_6",
+        "code": "AS01",
+        "stock": 25
+    },
+    {
+        "id": 7,
+        "title": "Camiseta 7",
+        "description": "Camiseta Uruguay",
+        "price": 40000,
+        "thumbnail": "imagen_7",
+        "code": "DF23",
+        "stock": 35
+    },
+    {
+        "id": 8,
+        "title": "Camiseta 8",
+        "description": "Camiseta Alemania",
+        "price": 40000,
+        "thumbnail": "imagen_8",
+        "code": "GH45",
+        "stock": 45
+    },
+    {
+        "id": 9,
+        "title": "Camiseta 9",
+        "description": "Camiseta Italia",
+        "price": 40000,
+        "thumbnail": "JK67",
+        "code": "YZA567",
+        "stock": 30
+    },
+    {
+        "id": 10,
+        "title": "Camiseta 10",
+        "description": "Camiseta Paises Bajos",
+        "price": 40000,
+        "thumbnail": "LÑ89",
+        "code": "JKL012",
+        "stock": 25
+    }
+]
