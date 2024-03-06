@@ -102,7 +102,7 @@ class ProductManager {
     async getProductsLimit(limit) {
         try {
             if (limit) {
-                return this.products.slice(0, limit);
+                return this.products.slice(0, parseInt(limit));
             } else {
                 return this.products;
             }
@@ -112,4 +112,4 @@ class ProductManager {
     }
 }
 
-module.exports = ProductManager;
+module.export = ProductManager;
